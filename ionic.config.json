@@ -1,0 +1,7 @@
+{
+  "name": "app-ion2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
